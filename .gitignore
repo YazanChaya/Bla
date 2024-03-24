@@ -1,0 +1,4 @@
+*.log
+!linux.log
+node_packs/
+test.txt
